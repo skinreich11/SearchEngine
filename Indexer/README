@@ -1,0 +1,9 @@
+1. avarage doc length is 1215.16291. shortes story is 18265-art15 of length 2355. Longest story is 8951-id_6 of length 26139
+2. the has occurs in the most documents occurring in 966 documents and has the largest number of occurrences occurring 96151 times
+3. There are 27217 unique words in the entire collection, with 10056 words occur only once. That is around 37 present
+    of all occurring words. I expected this number to be higher, closer to 50 percent, as it is by Zipf's law that 50
+    percent of all unique words in a collection occur only once
+4. If I am judging the top 100 documents from both queries that rank the statement scientific america supplement I would
+    be judging a total of 100 unique documents. If it is the top 20, it would be 30 unique documents. If we were to judge
+    a total of 25 docs, we would pull 11 documents out of the first query q-sciam-bm25 and 14 documents out of pq-sciam-or
+5. amherst-skinreich.qrels is attached

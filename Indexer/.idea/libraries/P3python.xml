@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="P3python">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/P3python.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

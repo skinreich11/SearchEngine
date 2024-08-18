@@ -1,0 +1,17 @@
+Stav Kinreich
+1. The top 9 words seem to follow everyday words such as: her, i, she, not, you, his, had, but, have. It is only the
+tenth word, "elanor", which has a direct correlation to the story as it is the name of one of the main characters. The
+top words continue to follow typical everyday non-book-content related words with sparse relevant names such as
+marriane, dashword, edward. Throughout all the 100 words there was not a single reference to the name of the book, with
+no real emphasis on words that are directly related to the context of the book, the only words that are in the list are
+names of people or places and the word "sister" or "mother", otherwise the rest of the words barely relate or give
+context about the book.
+2. Personal pronouns should definitely be used as stopwords, as they take most of the top 10 words spots without giving
+real context about the book. Words that are also demonstrative pronouns such as that, which, what, etc, should also be
+removed. The stemmer sometimes stems words that should not be stemmed such as names, as the example of "willoughbi"
+which refers to Willoughby. When the words is the name of a place, the stemmer takes away important context.
+3. Graph is attached in the files
+4. Using the graphs at pages 81 and 82 of the textbook as references, I think sense and sensibility follows heaps law as
+the curve seem to start at a sharp angle with a high slope and gradually start to decrease the slope of the curve,
+meaning that as more words enter the collection, less and less new words are encountered, leading to the skewed curve as
+observed.
